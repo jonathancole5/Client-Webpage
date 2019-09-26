@@ -100,17 +100,17 @@ body {
 
 .shadow{box-shadow:-5px 10px 2.5px rgba(0,0,0,0.5)}
 
-.g-img{content: url("images/green2.png")}
+.g-img{content: url("images/green.png")}
 
-.r-img{content: url("images/red2.png")}
+.r-img{content: url("images/red.png")}
 
-.blue-img{content: url("images/blue2.png")}
+.blue-img{content: url("images/blue.png")}
 
-.black-img{content: url("images/black2.png")}
+.black-img{content: url("images/black.png")}
 
 .t-img{content: url("images/tiamat.jpg")}
 
-.w-img{content: url("images/white2.png")}
+.w-img{content: url("images/white.png")}
 
 .cent-img{
   display: flex;
